@@ -31,3 +31,6 @@
 [submodule "research/FReE_package"]
 	path = research/FReE_package
 	url = https://github.com/robsoncordeiro/FReE_package.git
+[submodule "research/Curl-Remover_package"]
+	path = research/Curl-Remover_package
+	url = https://github.com/robsoncordeiro/Curl-Remover_package.git
