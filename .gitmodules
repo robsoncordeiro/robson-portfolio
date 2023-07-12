@@ -4,3 +4,6 @@
 [submodule "research/MrCC_package"]
 	path = research/MrCC_package
 	url = https://github.com/robsoncordeiro/MrCC_package.git
+[submodule "research/QMAS_package"]
+	path = research/QMAS_package
+	url = https://github.com/robsoncordeiro/QMAS_package.git
