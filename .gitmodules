@@ -19,3 +19,6 @@
 [submodule "research/HySortOD_package/Python"]
 	path = research/HySortOD_package/Python
 	url = https://github.com/eug/hysortod.py.git
+[submodule "research/Game_Influencer_Detection_package"]
+	path = research/Game_Influencer_Detection_package
+	url = https://github.com/leomaurodesenv/paper-2019-iceis.git
