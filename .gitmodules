@@ -25,3 +25,6 @@
 [submodule "research/ULEARn_package"]
 	path = research/ULEARn_package
 	url = https://github.com/mtcazzolato/ulearn-app.git
+[submodule "research/M-Flash_package"]
+	path = research/M-Flash_package
+	url = https://github.com/M-Flash/m-flash-cpp.git
