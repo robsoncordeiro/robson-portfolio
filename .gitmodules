@@ -10,3 +10,6 @@
 [submodule "research/D.MCA_package"]
 	path = research/D.MCA_package
 	url = https://github.com/11hifish/D.MCA.git
+[submodule "research/BF-PSR_framework"]
+	path = research/BF-PSR_framework
+	url = https://github.com/danielafe7-usp/BF-PSR-Framework.git
