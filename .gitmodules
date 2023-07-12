@@ -7,3 +7,6 @@
 [submodule "research/QMAS_package"]
 	path = research/QMAS_package
 	url = https://github.com/robsoncordeiro/QMAS_package.git
+[submodule "research/D.MCA_package"]
+	path = research/D.MCA_package
+	url = https://github.com/11hifish/D.MCA.git
