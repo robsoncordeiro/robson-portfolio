@@ -1,3 +1,6 @@
 [submodule "research/BoW_package"]
 	path = research/BoW_package
 	url = https://github.com/robsoncordeiro/BoW_package.git
+[submodule "research/MrCC_package"]
+	path = research/MrCC_package
+	url = https://github.com/robsoncordeiro/MrCC_package.git
