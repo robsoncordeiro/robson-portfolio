@@ -13,3 +13,9 @@
 [submodule "research/BF-PSR_framework"]
 	path = research/BF-PSR_framework
 	url = https://github.com/danielafe7-usp/BF-PSR-Framework.git
+[submodule "research/HySortOD_package/Java"]
+	path = research/HySortOD_package/Java
+	url = https://github.com/eug/hysortod.java.git
+[submodule "research/HySortOD_package/Python"]
+	path = research/HySortOD_package/Python
+	url = https://github.com/eug/hysortod.py.git
