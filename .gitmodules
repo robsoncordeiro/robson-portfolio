@@ -1,0 +1,3 @@
+[submodule "research/BoW_package"]
+	path = research/BoW_package
+	url = https://github.com/robsoncordeiro/BoW_package.git
