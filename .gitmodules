@@ -22,3 +22,6 @@
 [submodule "research/Game_Influencer_Detection_package"]
 	path = research/Game_Influencer_Detection_package
 	url = https://github.com/leomaurodesenv/paper-2019-iceis.git
+[submodule "research/ULEARn_package"]
+	path = research/ULEARn_package
+	url = https://github.com/mtcazzolato/ulearn-app.git
