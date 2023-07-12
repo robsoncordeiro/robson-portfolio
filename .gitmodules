@@ -28,3 +28,6 @@
 [submodule "research/M-Flash_package"]
 	path = research/M-Flash_package
 	url = https://github.com/M-Flash/m-flash-cpp.git
+[submodule "research/FReE_package"]
+	path = research/FReE_package
+	url = https://github.com/robsoncordeiro/FReE_package.git
