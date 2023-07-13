@@ -37,3 +37,6 @@
 [submodule "research/ORFEL_package"]
 	path = research/ORFEL_package
 	url = https://github.com/robsoncordeiro/ORFEL_package.git
+[submodule "research/C-AllOut_package"]
+	path = research/C-AllOut_package
+	url = https://github.com/robsoncordeiro/C-AllOut_package.git
