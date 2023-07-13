@@ -34,3 +34,6 @@
 [submodule "research/Curl-Remover_package"]
 	path = research/Curl-Remover_package
 	url = https://github.com/robsoncordeiro/Curl-Remover_package.git
+[submodule "research/ORFEL_package"]
+	path = research/ORFEL_package
+	url = https://github.com/robsoncordeiro/ORFEL_package.git
