@@ -38,5 +38,5 @@ int top(Stack s, elem* x) {
     if (isEmpty(s))
         return 1; // error, the stack is empty
     *x = s.array[s.top];
-    return 0; // sucess
+    return 0; // success
 }
